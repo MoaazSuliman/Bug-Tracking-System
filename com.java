@@ -1,0 +1,1 @@
+java.lang.ClassCastException: class com.moaaz.bug.model.Person cannot be cast to class com.moaaz.bug.model.Developer (com.moaaz.bug.model.Person and com.moaaz.bug.model.Developer are in unnamed module of loader org.springframework.boot.devtools.restart.classloader.RestartClassLoader @114960f2)
